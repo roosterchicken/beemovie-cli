@@ -2,16 +2,16 @@
 # It is not intended for manual editing.
 [[package]]
 name = "beemovie"
-version = "0.2.3"
+version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "97d036a203d382a1f59ad002d6fa9244687890187879731fd7eba196c09f1f69"
+checksum = "954976e9602401bdd8a896e620d1380f724d84bcd5aff575b913549ac72de358"
 dependencies = [
  "rand",
 ]
 
 [[package]]
 name = "beemovie-cli"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "beemovie",
 ]
