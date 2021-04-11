@@ -1,6 +1,6 @@
 [package]
 name = "beemovie-cli"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Rooster <roosterchicken@protonmail.ch>"]
 edition = "2018"
 description = "Bee Movie CLI Application."
@@ -12,4 +12,4 @@ readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-beemovie = "1.0.0"
+beemovie = "1.0.1"

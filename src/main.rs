@@ -59,7 +59,7 @@ fn main() {
                 println!("Incorrect arguments");
             }
         } else if args[1] == "version" {
-            println!("beemovie-cli v0.1.2\nbeemovie v{}", beemovie::version());
+            println!("beemovie-cli v0.1.3\nbeemovie v{}", beemovie::version());
         } else {
             println!("Incorrect arguments");
         }
